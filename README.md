@@ -3,7 +3,7 @@
 
 [![Language](https://img.shields.io/badge/language-python-blue?&style=plastic)](https://www.python.org)
 [![Language version](https://img.shields.io/badge/version-3.9-red?&style=plastic)](https://www.python.org/downloads/)
-![GitHub repo size](https://img.shields.io/badge/repo%20size-50%20kB-pink?&style=plastic)
+![GitHub repo size](https://img.shields.io/badge/repo%20size-42%20kB-pink?&style=plastic)
 ---
 
 ### Author
